@@ -1,0 +1,16 @@
+E:\c#\Pro C#\Paractices\Function\bin\Debug\net8.0-windows\Function.exe
+E:\c#\Pro C#\Paractices\Function\bin\Debug\net8.0-windows\Function.deps.json
+E:\c#\Pro C#\Paractices\Function\bin\Debug\net8.0-windows\Function.runtimeconfig.json
+E:\c#\Pro C#\Paractices\Function\bin\Debug\net8.0-windows\Function.dll
+E:\c#\Pro C#\Paractices\Function\bin\Debug\net8.0-windows\Function.pdb
+E:\c#\Pro C#\Paractices\Function\obj\Debug\net8.0-windows\Function.FrmMain.resources
+E:\c#\Pro C#\Paractices\Function\obj\Debug\net8.0-windows\Function.csproj.GenerateResource.cache
+E:\c#\Pro C#\Paractices\Function\obj\Debug\net8.0-windows\Function.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Pro C#\Paractices\Function\obj\Debug\net8.0-windows\Function.AssemblyInfoInputs.cache
+E:\c#\Pro C#\Paractices\Function\obj\Debug\net8.0-windows\Function.AssemblyInfo.cs
+E:\c#\Pro C#\Paractices\Function\obj\Debug\net8.0-windows\Function.csproj.CoreCompileInputs.cache
+E:\c#\Pro C#\Paractices\Function\obj\Debug\net8.0-windows\Function.dll
+E:\c#\Pro C#\Paractices\Function\obj\Debug\net8.0-windows\refint\Function.dll
+E:\c#\Pro C#\Paractices\Function\obj\Debug\net8.0-windows\Function.pdb
+E:\c#\Pro C#\Paractices\Function\obj\Debug\net8.0-windows\Function.genruntimeconfig.cache
+E:\c#\Pro C#\Paractices\Function\obj\Debug\net8.0-windows\ref\Function.dll
