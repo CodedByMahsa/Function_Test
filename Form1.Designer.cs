@@ -33,6 +33,8 @@
             BtnWordsList = new Button();
             BtnNumOfChars = new Button();
             BtnNumOfWords = new Button();
+            label1 = new Label();
+            label2 = new Label();
             SuspendLayout();
             // 
             // TxtText
@@ -83,11 +85,31 @@
             BtnNumOfWords.UseVisualStyleBackColor = true;
             BtnNumOfWords.Click += BtnNumOfWords_Click;
             // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Location = new Point(60, 40);
+            label1.Name = "label1";
+            label1.Size = new Size(71, 20);
+            label1.TabIndex = 2;
+            label1.Text = "Text only:";
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Location = new Point(60, 128);
+            label2.Name = "label2";
+            label2.Size = new Size(74, 20);
+            label2.TabIndex = 2;
+            label2.Text = "Char only:";
+            // 
             // FrmMain
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(496, 346);
+            Controls.Add(label2);
+            Controls.Add(label1);
             Controls.Add(BtnNumOfWords);
             Controls.Add(BtnNumOfChars);
             Controls.Add(BtnWordsList);
@@ -106,5 +128,7 @@
         private Button BtnWordsList;
         private Button BtnNumOfChars;
         private Button BtnNumOfWords;
+        private Label label1;
+        private Label label2;
     }
 }

@@ -14,3 +14,4 @@ E:\c#\Pro C#\Paractices\Function\obj\Debug\net8.0-windows\refint\Function.dll
 E:\c#\Pro C#\Paractices\Function\obj\Debug\net8.0-windows\Function.pdb
 E:\c#\Pro C#\Paractices\Function\obj\Debug\net8.0-windows\Function.genruntimeconfig.cache
 E:\c#\Pro C#\Paractices\Function\obj\Debug\net8.0-windows\ref\Function.dll
+E:\c#\Pro C#\Paractices\Function\obj\Debug\net8.0-windows\Function.sourcelink.json

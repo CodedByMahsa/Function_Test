@@ -28,7 +28,7 @@ namespace Function
 
         private void BtnWordsList_Click(object sender, EventArgs e)
         {
-            if (TxtChar.Text == null)
+            if (string.IsNullOrWhiteSpace(TxtChar.Text))
                 MessageBox.Show("Fill All TextBoxes please");
             else
             {
@@ -50,7 +50,7 @@ namespace Function
         private void BtnNumOfChars_Click(object sender, EventArgs e)
         {
             int repeated = 0;
-            if (TxtChar.Text == null)
+            if (string.IsNullOrWhiteSpace(TxtChar.Text))
                 MessageBox.Show("Fill All TextBoxes please");
             else
             {
@@ -67,7 +67,7 @@ namespace Function
 
         private void BtnNumOfWords_Click(object sender, EventArgs e)
         {
-            if (TxtChar.Text == null)
+            if (string.IsNullOrWhiteSpace(TxtChar.Text))
                 MessageBox.Show("Fill All TextBoxes please");
             else
             {
